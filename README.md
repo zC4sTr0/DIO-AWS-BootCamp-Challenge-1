@@ -4,7 +4,7 @@
 
 #### Description of the bootcamp: 
 
-One of the largest cloud computing service platforms has arrived at DIO. This is the first AWS - Amazon Web Services - program in partnership with DIO, consisting of 73 hours of content ranging from basic to certification preparation. The track is made up of exclusive AWS courses and live mentoring with platform-certified experts. It is a great opportunity to learn about AWS certifications and enhance your resume.
+One of the largest cloud computing service platforms has arrived at DIO. This is the first AWS - Amazon Web Services - program in partnership with DIO, consisting of 72 hours of content ranging from basic to certification preparation. The track is made up of exclusive AWS courses and live mentoring with platform-certified experts. It is a great opportunity to learn about AWS certifications and enhance your resume.
 
 Duration: 72 Hours
 
