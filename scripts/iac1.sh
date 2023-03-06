@@ -42,4 +42,4 @@ chmod 770 /sec
 echo "Permissions created"
 echo "Creating permissions for users"
 
-echo "Fim"
+echo "finished"
