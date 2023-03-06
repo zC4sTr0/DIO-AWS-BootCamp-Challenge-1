@@ -1,6 +1,6 @@
 <p  align="center"><img  src="img/cloud_bootcamp.webp"  alt="LOGO"  ></p>
 <h1  align="center">AWS Cloud BootCamp</h1>
-<div  align="center">
+
 
 #### Description of the bootcamp: 
 
