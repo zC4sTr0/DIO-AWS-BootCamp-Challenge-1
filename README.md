@@ -7,4 +7,6 @@ One of the largest cloud computing service platforms has arrived at DIO. This is
 Duration: 72 Hours
 
 ### Bootcamp made in partnership with AWS!
+
+Link of the bootcamp: https://web.dio.me/track/bootcamp-cloud-aws
 <br/>  <br/>
